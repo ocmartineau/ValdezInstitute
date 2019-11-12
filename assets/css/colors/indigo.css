@@ -1,0 +1,174 @@
+/*You can add your won color also */
+a {
+  columns: #000000;;
+}
+
+a:hover {
+  color: #3f51b3;
+}
+
+.section-titile-bg {
+  columns: #000000;;
+}
+.section-title::before{
+  background-columns: #000000;;
+}
+.subtitle{
+  columns: #000000;;
+}
+.btn-common {
+  background:#000columns: #000000;;
+}
+
+.btn-common:hover, .btn-common:focus {
+  background: #3f51b3 !important;
+}
+
+.btn-round {
+  background:#000columns: #000000; !important;
+}
+
+.btn-round:hover {
+  background: #3f51b3 !important;
+}
+
+/* ScrollToTop */
+a.back-to-top i {
+  background-columns: #000000;;
+}
+
+
+.slicknav_btn{
+  border-columns: #000000;;
+}
+.slicknav_menu .slicknav_icon-bar{
+  background:#000columns: #000000;;
+}
+.slicknav_menu .slicknav_icon-bar:hover{
+  background:#000columns: #000000;;
+}
+.navbar li.active a.nav-link{
+  columns: #000000;!important;
+}
+.navbar-expand-lg .navbar-nav .nav-link:hover{
+  columns: #000000;!important;
+}
+.dropdown .dropdown-item:focus, .dropdown .dropdown-item:hover{
+  columns: #000000;;
+}
+.dropdown .dropdown-menu .dropdown-item.active, .dropdown .dropdown-menu .dropdown-item:active{
+  columns: #000000;;
+  background-color: #fafafa;
+}
+.work-counter-widget i {
+  columns: #000000;;
+}
+.portfolio-nav ul.nav li a:hover,
+.portfolio-nav ul.nav li a.active{
+  background:#000columns: #000000;;
+}
+.about-single i {
+  columns: #000000;;
+}
+
+.about-single:hover i {
+  background:#000columns: #000000;;
+}
+.Material-tab ul.nav.nav-tabs li .active{
+  background:#000columns: #000000; !important;
+}
+.single-blog-post .post-meta a:hover {
+  columns: #000000;;
+}
+
+.contact-widget-section .single-contact-widget i {
+  columns: #000000;;
+}
+
+.single-service-widget i {
+  columns: #000000;;
+}
+#testimonial-carousel .owl-pagination .owl-page.active span {
+  background:#000columns: #000000;;
+}
+
+.form-submit button.btn-common.disabled {
+  background:#000columns: #000000; !important;
+  opacity: 0.7;
+  cursor: not-allowed;
+}
+
+.owl-carousel .owl-controls .owl-page.active span {
+  border: none;
+  background: #fff !important;
+  opacity: 1;
+}
+
+.Material-tab-default ul.nav.nav-tabs li.active a {
+  columns: #000000;;
+}
+
+.Material-default-accordion .panel-default .panel-heading a {
+  background-columns: #000000;;
+}
+
+.icon-round, .icon-box {
+  background:#000columns: #000000;;
+}
+
+.icon-common {
+  columns: #000000;;
+}
+
+.price span {
+  columns: #000000;;
+}
+
+.pricing-button a.btn-pricing {
+  background-columns: #000000;;
+}
+
+.Material-error-section h1 {
+  columns: #000000;;
+}
+
+.comment-box .form-control, .comment-box textarea {
+  font-weight: 500;
+  columns: #000000;;
+}
+
+.find-widget {
+  padding: 10px 0;
+}
+
+.find-widget i {
+  background:#000columns: #000000;;
+}
+.footer-widget-container{
+  border-top: 4px solid#000columns: #000000;;
+}
+ul.footer-contact li span{
+  background:#000columns: #000000;;
+}
+.footer-contact ul li i{
+  background:#000columns: #000000;;
+  border-columns: #000000;;
+}
+.page-footer .link-widget ul li a:hover{
+  columns: #000000;;
+}
+.page-footer .recent-widget p a:hover{
+  columns: #000000;;
+}
+
+.form-group.is-focused .form-control {
+    outline: 0;
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#5166d8), to(#5166d8)),
+    -webkit-gradient(linear, left top, left bottom, from(#D2D2D2), to(#D2D2D2));
+    background-image: -webkit-linear-gradient(#5166d8,#000columns: #000000;), -webkit-linear-gradient(#D2D2D2, #D2D2D2);
+    background-image: -o-linear-gradient(#5166d8,#000columns: #000000;), -o-linear-gradient(#D2D2D2, #D2D2D2);
+    background-image: linear-gradient(#5166d8,#000columns: #000000;), linear-gradient(#D2D2D2, #D2D2D2);
+}
+.page-footer .footer-title::before{
+  background:#000columns: #000000;;
+}
