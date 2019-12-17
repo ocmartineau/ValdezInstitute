@@ -908,7 +908,7 @@ a.back-to-top:focus {
 }
 
 .single-service-widget p {
-    color: #999
+    color: rgb(0, 0, 0)
 }
 
 .single-service-widget h2 {
