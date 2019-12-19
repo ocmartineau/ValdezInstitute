@@ -1907,9 +1907,10 @@ ul.recent-post li .post-text span {
 }
 
 #Logo {
-    height: 100px;
-    width: 100px;
-    float: right;
+    height: 150px;
+    width: 150px;
+    /* float: left; */
+    text-align: center;
 }
 
 #title {
@@ -1921,7 +1922,8 @@ ul.recent-post li .post-text span {
     font-size: 56px;
     font-weight: 700;
     color: rgb(153, 153, 153);
-    float: left;
+    text-align: center;
+    /* float: right; */
 }
 
 .call-to-action-section h3 {
@@ -1930,6 +1932,12 @@ ul.recent-post li .post-text span {
     text-transform: uppercase
 }
 
+#aboutUs {
+    font-size: 56px;
+    font-weight: 700;
+    color: rgb(153, 153, 153);
+    text-align: center;
+}
 .page-title-section {
     position: relative;
     background: url(../images/page-title-bg.jpg) no-repeat scroll center center;
