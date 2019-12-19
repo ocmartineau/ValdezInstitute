@@ -1901,14 +1901,27 @@ ul.recent-post li .post-text span {
 .call-to-action-section {
     padding: 60px 0;
     background: url(../images/1stblackandred.jpg) no-repeat scroll center center;
-    background-size: cover
+    background-size: cover;
+    text-align: center
+    
+}
+
+#Logo {
+    height: 100px;
+    width: 100px;
+    float: right;
+}
+
+#title {
+    text-align: center;
 }
 
 .call-to-action-section h1 {
     color: #18191b;
     font-size: 56px;
     font-weight: 700;
-    color: rgb(153, 153, 153)
+    color: rgb(153, 153, 153);
+    float: left;
 }
 
 .call-to-action-section h3 {
