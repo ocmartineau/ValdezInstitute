@@ -1948,6 +1948,10 @@ ul.recent-post li .post-text span {
     padding-top: 65px
 }
 
+td {
+    text-align: center;
+}
+
 .Material-tab ul.nav.nav-tabs {
     padding: 0px 25px;
     background: #fff;
