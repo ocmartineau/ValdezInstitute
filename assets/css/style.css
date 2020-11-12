@@ -1298,6 +1298,14 @@ figure:hover figcaption {
     opacity: 1
 }
 
+th {
+    color: #333;
+    text-align: center;
+}
+
+td {
+    color: #333;
+}
 .client {
     border-bottom: 1px solid #e9e9e9
 }
